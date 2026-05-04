@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+yfinance
+pandas
+numpy
+langchain
+langchain-groq
+scikit-learn
+tensorflow
+nest_asyncio
+pydantic
